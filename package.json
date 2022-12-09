@@ -9,7 +9,7 @@
         "test": "mocha",
         "start": "src/index.js"
     },
-    "repository": {
+    "repository":  {
         "type": "git",
         "url": "git+https://github.com/sabihak89/thorium.git"
     },
